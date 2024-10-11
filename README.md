@@ -1,4 +1,4 @@
-# MATHS7027, Tri2, 2024
+# MATHS 7027, Tri2, 2024
 [Mathematical Foundations of Data Science](https://www.adelaide.edu.au/course-outlines/110010/1/tri-1/)
 ## Section 1: Fundamentals
 ## Section 2: Probability
